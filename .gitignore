@@ -1,0 +1,11 @@
+/vendor
+/node_modules
+Homestead.yaml
+Homestead.json
+/public/node_modules
+
+/server/data/mariadb/*
+/server/logs/apache2/*
+/server/logs/mysql/*
+/.idea
+.vscode
